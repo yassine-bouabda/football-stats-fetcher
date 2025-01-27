@@ -84,12 +84,12 @@ def get_all_teams(leagues_dict: Dict[str, int] = FAVORITE_LEAGUES) -> pd.DataFra
     all_teams_df.to_csv("teams.csv", index=False)
 
 
-def get_player_id(team_id: int, player_name: str) -> int:
+def get_player_id(team_id: int, player_name: str, season: int) -> int:
     params = {
         "search": player_name,
         "team": team_id,
-        "season": 2024,
-    }  # Adjust season as needed
+        "season": season,
+    }
     response = requests.get(PLAYERS_URL, headers=HEADERS, params=params)
     if response.status_code != 200:
         print(f"Error fetching player data: {response.status_code}")
@@ -126,7 +126,6 @@ def _parse_player_data(data: Dict) -> pd.DataFrame:
     nationality = player_info["nationality"]
     weight = player_info["weight"]
     height = player_info["height"]
-    # Extract stats
     stats = data["response"][0]["statistics"]
     # Parse stats into a DataFrame
     rows = []
@@ -163,13 +162,15 @@ def get_team_id(team_name: str, all_teams_path: str = "all_teams.csv") -> int:
     return team_id[0] if len(team_id) > 0 else None
 
 
-def get_player_data(player_name: str, team_name: str, season=2024) -> pd.DataFrame:
+def get_player_data(
+    player_name: str, team_name: str, season: int = 2024
+) -> pd.DataFrame:
     """Get player stats using player name and his current team"""
     team_id = get_team_id(team_name)
     if not team_id:
         print(f"Team '{team_name}' not found")
         return None
-    player_id = get_player_id(team_id, player_name)
+    player_id = get_player_id(team_id, player_name, season)
     if player_id is None:
         return None
     player_stats = get_player_stats(player_id, team_id, season)
