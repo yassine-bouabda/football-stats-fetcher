@@ -1,0 +1,378 @@
+Team ID,Team,League
+33,Manchester United,Premier League
+34,Newcastle,Premier League
+35,Bournemouth,Premier League
+36,Fulham,Premier League
+39,Wolves,Premier League
+40,Liverpool,Premier League
+41,Southampton,Premier League
+42,Arsenal,Premier League
+45,Everton,Premier League
+46,Leicester,Premier League
+47,Tottenham,Premier League
+48,West Ham,Premier League
+49,Chelsea,Premier League
+50,Manchester City,Premier League
+51,Brighton,Premier League
+52,Crystal Palace,Premier League
+55,Brentford,Premier League
+57,Ipswich,Premier League
+65,Nottingham Forest,Premier League
+66,Aston Villa,Premier League
+529,Barcelona,La Liga
+530,Atletico Madrid,La Liga
+531,Athletic Club,La Liga
+532,Valencia,La Liga
+533,Villarreal,La Liga
+534,Las Palmas,La Liga
+536,Sevilla,La Liga
+537,Leganes,La Liga
+538,Celta Vigo,La Liga
+540,Espanyol,La Liga
+541,Real Madrid,La Liga
+542,Alaves,La Liga
+543,Real Betis,La Liga
+546,Getafe,La Liga
+547,Girona,La Liga
+548,Real Sociedad,La Liga
+720,Valladolid,La Liga
+727,Osasuna,La Liga
+728,Rayo Vallecano,La Liga
+798,Mallorca,La Liga
+487,Lazio,Serie A
+489,AC Milan,Serie A
+490,Cagliari,Serie A
+492,Napoli,Serie A
+494,Udinese,Serie A
+495,Genoa,Serie A
+496,Juventus,Serie A
+497,AS Roma,Serie A
+499,Atalanta,Serie A
+500,Bologna,Serie A
+502,Fiorentina,Serie A
+503,Torino,Serie A
+504,Verona,Serie A
+505,Inter,Serie A
+511,Empoli,Serie A
+517,Venezia,Serie A
+523,Parma,Serie A
+867,Lecce,Serie A
+895,Como,Serie A
+1579,Monza,Serie A
+157,Bayern München,Bundesliga
+160,SC Freiburg,Bundesliga
+161,VfL Wolfsburg,Bundesliga
+162,Werder Bremen,Bundesliga
+163,Borussia Mönchengladbach,Bundesliga
+164,FSV Mainz 05,Bundesliga
+165,Borussia Dortmund,Bundesliga
+167,1899 Hoffenheim,Bundesliga
+168,Bayer Leverkusen,Bundesliga
+169,Eintracht Frankfurt,Bundesliga
+170,FC Augsburg,Bundesliga
+172,VfB Stuttgart,Bundesliga
+173,RB Leipzig,Bundesliga
+176,VfL Bochum,Bundesliga
+180,1. FC Heidenheim,Bundesliga
+182,Union Berlin,Bundesliga
+186,FC St. Pauli,Bundesliga
+191,Holstein Kiel,Bundesliga
+77,Angers,Ligue 1
+79,Lille,Ligue 1
+80,Lyon,Ligue 1
+81,Marseille,Ligue 1
+82,Montpellier,Ligue 1
+83,Nantes,Ligue 1
+84,Nice,Ligue 1
+85,Paris Saint Germain,Ligue 1
+91,Monaco,Ligue 1
+93,Reims,Ligue 1
+94,Rennes,Ligue 1
+95,Strasbourg,Ligue 1
+96,Toulouse,Ligue 1
+106,Stade Brestois 29,Ligue 1
+108,Auxerre,Ligue 1
+111,LE Havre,Ligue 1
+116,Lens,Ligue 1
+1063,Saint Etienne,Ligue 1
+193,PEC Zwolle,Eredivisie
+194,Ajax,Eredivisie
+195,Willem II,Eredivisie
+197,PSV Eindhoven,Eredivisie
+201,AZ Alkmaar,Eredivisie
+202,Groningen,Eredivisie
+203,NAC Breda,Eredivisie
+205,Fortuna Sittard,Eredivisie
+206,Heracles,Eredivisie
+207,Utrecht,Eredivisie
+209,Feyenoord,Eredivisie
+210,Heerenveen,Eredivisie
+410,GO Ahead Eagles,Eredivisie
+413,NEC Nijmegen,Eredivisie
+415,Twente,Eredivisie
+417,Waalwijk,Eredivisie
+419,Almere City FC,Eredivisie
+426,Sparta Rotterdam,Eredivisie
+40,Liverpool,UEFA Champions League
+42,Arsenal,UEFA Champions League
+50,Manchester City,UEFA Champions League
+66,Aston Villa,UEFA Champions League
+79,Lille,UEFA Champions League
+85,Paris Saint Germain,UEFA Champions League
+91,Monaco,UEFA Champions League
+106,Stade Brestois 29,UEFA Champions League
+157,Bayern München,UEFA Champions League
+165,Borussia Dortmund,UEFA Champions League
+168,Bayer Leverkusen,UEFA Champions League
+172,VfB Stuttgart,UEFA Champions League
+173,RB Leipzig,UEFA Champions League
+197,PSV Eindhoven,UEFA Champions League
+209,Feyenoord,UEFA Champions League
+211,Benfica,UEFA Champions League
+228,Sporting CP,UEFA Champions League
+247,Celtic,UEFA Champions League
+257,Rangers,UEFA Champions League
+278,Vikingur Reykjavik,UEFA Champions League
+327,Bodo/Glimt,UEFA Champions League
+336,Jagiellonia,UEFA Champions League
+354,The New Saints,UEFA Champions League
+375,Malmo FF,UEFA Champions League
+394,Dinamo Minsk,UEFA Champions League
+397,FC Midtjylland,UEFA Champions League
+415,Twente,UEFA Champions League
+489,AC Milan,UEFA Champions League
+496,Juventus,UEFA Champions League
+499,Atalanta,UEFA Champions League
+500,Bologna,UEFA Champions League
+505,Inter,UEFA Champions League
+529,Barcelona,UEFA Champions League
+530,Atletico Madrid,UEFA Champions League
+541,Real Madrid,UEFA Champions League
+547,Girona,UEFA Champions League
+550,Shakhtar Donetsk,UEFA Champions League
+556,Qarabag,UEFA Champions League
+559,FCSB,UEFA Champions League
+560,Slavia Praha,UEFA Champions League
+565,BSC Young Boys,UEFA Champions League
+566,Ludogorets,UEFA Champions League
+569,Club Brugge KV,UEFA Champions League
+571,Red Bull Salzburg,UEFA Champions League
+572,Dynamo Kyiv,UEFA Champions League
+573,FK Partizan,UEFA Champions League
+598,FK Crvena Zvezda,UEFA Champions League
+604,Maccabi Tel Aviv,UEFA Champions League
+606,FC Lugano,UEFA Champions League
+611,Fenerbahce,UEFA Champions League
+619,PAOK,UEFA Champions League
+620,Dinamo Zagreb,UEFA Champions League
+628,Sparta Praha,UEFA Champions League
+637,Sturm Graz,UEFA Champions League
+645,Galatasaray,UEFA Champions League
+649,HJK helsinki,UEFA Champions League
+651,Ferencvarosi TC,UEFA Champions League
+652,Shamrock Rovers,UEFA Champions League
+656,Slovan Bratislava,UEFA Champions League
+667,Lincoln Red Imps FC,UEFA Champions League
+684,FC Differdange 03,UEFA Champions League
+687,Flora Tallinn,UEFA Champions League
+692,Ordabasy,UEFA Champions League
+701,KI Klaksvik,UEFA Champions League
+703,UE Santa Coloma,UEFA Champions League
+705,Dinamo Batumi,UEFA Champions League
+709,Pyunik Yerevan,UEFA Champions League
+1393,Union St. Gilloise,UEFA Champions League
+2247,Apoel Nicosia,UEFA Champions League
+2271,Petrocub,UEFA Champions League
+3327,Egnatia Rrogozhinë,UEFA Champions League
+3364,Borac Banja Luka,UEFA Champions League
+3745,Dečić,UEFA Champions League
+3874,Panevėžys,UEFA Champions League
+4160,Rīgas FS,UEFA Champions League
+4346,Struga,UEFA Champions League
+4360,Celje,UEFA Champions League
+4626,Hamrun Spartans,UEFA Champions League
+5308,Virtus,UEFA Champions League
+5354,Larne,UEFA Champions League
+12733,Ballkani,UEFA Champions League
+33,Manchester United,UEFA Europa League
+47,Tottenham,UEFA Europa League
+80,Lyon,UEFA Europa League
+84,Nice,UEFA Europa League
+167,1899 Hoffenheim,UEFA Europa League
+169,Eintracht Frankfurt,UEFA Europa League
+194,Ajax,UEFA Europa League
+201,AZ Alkmaar,UEFA Europa League
+212,FC Porto,UEFA Europa League
+217,SC Braga,UEFA Europa League
+250,Kilmarnock,UEFA Europa League
+254,Heart Of Midlothian,UEFA Europa League
+257,Rangers,UEFA Europa League
+327,Bodo/Glimt,UEFA Europa League
+329,Molde,UEFA Europa League
+336,Jagiellonia,UEFA Europa League
+338,Wisla Krakow,UEFA Europa League
+354,The New Saints,UEFA Europa League
+372,IF Elfsborg,UEFA Europa League
+375,Malmo FF,UEFA Europa League
+394,Dinamo Minsk,UEFA Europa League
+397,FC Midtjylland,UEFA Europa League
+415,Twente,UEFA Europa League
+487,Lazio,UEFA Europa League
+497,AS Roma,UEFA Europa League
+531,Athletic Club,UEFA Europa League
+548,Real Sociedad,UEFA Europa League
+549,Besiktas,UEFA Europa League
+552,Maribor,UEFA Europa League
+553,Olympiakos Piraeus,UEFA Europa League
+554,Anderlecht,UEFA Europa League
+556,Qarabag,UEFA Europa League
+559,FCSB,UEFA Europa League
+560,Slavia Praha,UEFA Europa League
+561,HNK Rijeka,UEFA Europa League
+566,Ludogorets,UEFA Europa League
+567,Plzen,UEFA Europa League
+568,Sheriff Tiraspol,UEFA Europa League
+572,Dynamo Kyiv,UEFA Europa League
+573,FK Partizan,UEFA Europa League
+604,Maccabi Tel Aviv,UEFA Europa League
+606,FC Lugano,UEFA Europa League
+611,Fenerbahce,UEFA Europa League
+617,Panathinaikos,UEFA Europa League
+619,PAOK,UEFA Europa League
+634,Botev Plovdiv,UEFA Europa League
+645,Galatasaray,UEFA Europa League
+648,Zira,UEFA Europa League
+651,Ferencvarosi TC,UEFA Europa League
+652,Shamrock Rovers,UEFA Europa League
+667,Lincoln Red Imps FC,UEFA Europa League
+701,KI Klaksvik,UEFA Europa League
+702,Vojvodina,UEFA Europa League
+703,UE Santa Coloma,UEFA Europa League
+741,Cercle Brugge,UEFA Europa League
+781,Rapid Vienna,UEFA Europa League
+998,Trabzonspor,UEFA Europa League
+1026,Lask Linz,UEFA Europa League
+1393,Union St. Gilloise,UEFA Europa League
+2073,Silkeborg,UEFA Europa League
+2184,Servette FC,UEFA Europa League
+2247,Apoel Nicosia,UEFA Europa League
+2259,FK Tobol Kostanay,UEFA Europa League
+2271,Petrocub,UEFA Europa League
+2390,Paks,UEFA Europa League
+2646,TSC Backa Topola,UEFA Europa League
+3364,Borac Banja Luka,UEFA Europa League
+3403,Pafos,UEFA Europa League
+3549,Ružomberok,UEFA Europa League
+3874,Panevėžys,UEFA Europa League
+4160,Rīgas FS,UEFA Europa League
+4360,Celje,UEFA Europa League
+4495,Maccabi Petah Tikva,UEFA Europa League
+6489,Kryvbas KR,UEFA Europa League
+14395,Llapi,UEFA Europa League
+20034,Corvinul Hunedoara,UEFA Europa League
+1,Belgium,UEFA Conference League
+2,France,UEFA Conference League
+3,Croatia,UEFA Conference League
+9,Spain,UEFA Conference League
+10,England,UEFA Conference League
+14,Serbia,UEFA Conference League
+15,Switzerland,UEFA Conference League
+21,Denmark,UEFA Conference League
+24,Poland,UEFA Conference League
+25,Germany,UEFA Conference League
+27,Portugal,UEFA Conference League
+768,Italy,UEFA Conference League
+769,Hungary,UEFA Conference League
+770,Czech Republic,UEFA Conference League
+772,Ukraine,UEFA Conference League
+773,Slovakia,UEFA Conference League
+774,Romania,UEFA Conference League
+775,Austria,UEFA Conference League
+777,Türkiye,UEFA Conference League
+778,Albania,UEFA Conference League
+1091,Slovenia,UEFA Conference League
+1104,Georgia,UEFA Conference League
+1108,Scotland,UEFA Conference League
+1118,Netherlands,UEFA Conference League
+1,Belgium,UEFA Super Cup
+2,France,UEFA Super Cup
+3,Croatia,UEFA Super Cup
+5,Sweden,UEFA Super Cup
+9,Spain,UEFA Super Cup
+10,England,UEFA Super Cup
+14,Serbia,UEFA Super Cup
+15,Switzerland,UEFA Super Cup
+18,Iceland,UEFA Super Cup
+21,Denmark,UEFA Super Cup
+24,Poland,UEFA Super Cup
+25,Germany,UEFA Super Cup
+27,Portugal,UEFA Super Cup
+767,Wales,UEFA Super Cup
+768,Italy,UEFA Super Cup
+769,Hungary,UEFA Super Cup
+770,Czech Republic,UEFA Super Cup
+771,Northern Ireland,UEFA Super Cup
+772,Ukraine,UEFA Super Cup
+773,Slovakia,UEFA Super Cup
+774,Romania,UEFA Super Cup
+775,Austria,UEFA Super Cup
+776,Rep. Of Ireland,UEFA Super Cup
+777,Türkiye,UEFA Super Cup
+778,Albania,UEFA Super Cup
+1090,Norway,UEFA Super Cup
+1091,Slovenia,UEFA Super Cup
+1092,Latvia,UEFA Super Cup
+1093,Gibraltar,UEFA Super Cup
+1094,Armenia,UEFA Super Cup
+1095,Kazakhstan,UEFA Super Cup
+1096,Azerbaijan,UEFA Super Cup
+1097,Lithuania,UEFA Super Cup
+1098,Faroe Islands,UEFA Super Cup
+1099,Finland,UEFA Super Cup
+1100,Belarus,UEFA Super Cup
+1101,Estonia,UEFA Super Cup
+1102,Luxembourg,UEFA Super Cup
+1103,Bulgaria,UEFA Super Cup
+1104,Georgia,UEFA Super Cup
+1105,FYR Macedonia,UEFA Super Cup
+1106,Cyprus,UEFA Super Cup
+1107,Liechtenstein,UEFA Super Cup
+1108,Scotland,UEFA Super Cup
+1109,Montenegro,UEFA Super Cup
+1110,Andorra,UEFA Super Cup
+1111,Kosovo,UEFA Super Cup
+1112,Malta,UEFA Super Cup
+1113,Bosnia & Herzegovina,UEFA Super Cup
+1114,Moldova,UEFA Super Cup
+1115,San Marino,UEFA Super Cup
+1116,Israel,UEFA Super Cup
+1117,Greece,UEFA Super Cup
+1118,Netherlands,UEFA Super Cup
+248,Hamilton Academical,Championship
+255,Livingston,Championship
+901,Partick,Championship
+1383,Morton,Championship
+1385,Raith Rovers,Championship
+1387,Ayr Utd,Championship
+1388,Dunfermline,Championship
+1389,Falkirk,Championship
+4668,Airdrie United,Championship
+6778,Queen's Park,Championship
+211,Benfica,Primeira Liga
+212,FC Porto,Primeira Liga
+215,Moreirense,Primeira Liga
+217,SC Braga,Primeira Liga
+222,Boavista,Primeira Liga
+224,Guimaraes,Primeira Liga
+225,Nacional,Primeira Liga
+226,Rio Ave,Primeira Liga
+227,Santa Clara,Primeira Liga
+228,Sporting CP,Primeira Liga
+230,Estoril,Primeira Liga
+231,Farense,Primeira Liga
+240,Arouca,Primeira Liga
+242,Famalicao,Primeira Liga
+762,GIL Vicente,Primeira Liga
+4716,Casa Pia,Primeira Liga
+15130,Estrela,Primeira Liga
+21595,AVS,Primeira Liga
