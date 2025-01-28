@@ -1,10 +1,12 @@
 import os
+from difflib import get_close_matches
 from typing import Dict, List
 
 import pandas as pd
 import requests
 
 api_key = os.getenv("API_FOOTBALL_KEY")
+
 HEADERS = {
     "X-RapidAPI-Host": "api-football-v1.p.rapidapi.com",
     "X-RapidAPI-Key": api_key,
@@ -12,6 +14,7 @@ HEADERS = {
 LEAGUES_URL = "https://api-football-v1.p.rapidapi.com/v3/leagues"
 TEAMS_URL = "https://api-football-v1.p.rapidapi.com/v3/teams"
 PLAYERS_URL = "https://api-football-v1.p.rapidapi.com/v3/players"
+SQUAD_URL = "https://api-football-v1.p.rapidapi.com/v3/players/squads"
 
 FAVORITE_LEAGUES = {
     "Premier League": 39,
@@ -86,23 +89,26 @@ def get_all_teams(leagues_dict: Dict[str, int] = FAVORITE_LEAGUES) -> pd.DataFra
 
 def get_player_id(team_id: int, player_name: str, season: int) -> int:
     params = {
-        "search": player_name,
         "team": team_id,
-        "season": season,
     }
-    response = requests.get(PLAYERS_URL, headers=HEADERS, params=params)
+    response = requests.get(SQUAD_URL, headers=HEADERS, params=params)
     if response.status_code != 200:
-        print(f"Error fetching player data: {response.status_code}")
+        print(f"Error fetching player data: {response}")
         return None
     data = response.json()
-
     # Extract Player ID
     if not data["response"]:
         print(f"No player found with name '{player_name}' in team ID {team_id}")
         return None
-    player = data["response"][0]  # Assume the first match is the desired player
-    player_id = player["player"]["id"]
-    print(f"Found player: {player['player']['name']} (ID: {player_id})")
+    team_players = data["response"][0]["players"]
+    team_df = pd.DataFrame(team_players)
+    player_name_match = get_close_matches(
+        player_name, team_df.name.values, n=1, cutoff=0.4
+    )[
+        0
+    ]  # Assume the first match is the desired player
+    player_id = team_df.loc[team_df["name"] == player_name_match]["id"].values[0]
+    print(f"Found player: {player_name_match} (ID: {player_id})")
     return player_id
 
 
